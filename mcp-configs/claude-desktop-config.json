@@ -1,0 +1,10 @@
+{
+  "user": "Jherilyn Fortes",
+  "environment": "AI Agent Bootcamp November 2025",
+  "servers": {
+    "rolldice": {"status": "connected"},
+    "bootcamp_ai_agent": {"status": "connected"},
+    "calendar_booking": {"status": "connected"},
+    "github": {"status": "connected"}
+  }
+}
