@@ -1,1 +1,1 @@
-# ai-agent-dev-setup-barbie
+# ai-agent-dev-setup-Jherilyn
