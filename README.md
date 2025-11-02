@@ -7,19 +7,20 @@ Development Environment Checklist
 
 Node.js installed
 Screenshot:
-<img width="944" height="78" alt="Node.js Version" src="screenshots/node-version.png" />
+<img width="944" height="78" alt="node-version" src="https://github.com/user-attachments/assets/49f2543a-47aa-4585-99f0-e94456df56f1" />
+
 
 Git installed
 Screenshot:
-<img width="944" height="78" alt="Git Version" src="screenshots/git-version.png" />
+<img width="1058" height="67" alt="git-version" src="https://github.com/user-attachments/assets/193b492b-d141-4359-bea6-469ac97bc223" />
 
 VS Code Insider running with GitHub Copilot enabled
 Screenshot:
-<img width="944" height="78" alt="VS Code Insider with Copilot" src="screenshots/vscode-copilot.png" />
+<img width="1519" height="1154" alt="vscode-copilot" src="https://github.com/user-attachments/assets/a2404fe6-634e-4eed-91c8-f400f1850882" />
 
 Claude Desktop open with all 4 MCP servers connected
 Screenshot:
-<img width="944" height="78" alt="Claude MCP Servers Connected" src="screenshots/claude-mcp.png" />
+<img width="932" height="912" alt="claude-mcp" src="https://github.com/user-attachments/assets/5e3f00ed-a139-46c2-9ce3-e97b20902270" />
 
 MCP Servers Purpose
 
@@ -35,3 +36,4 @@ Encountered Git issues on Windows PowerShell. Fixed by installing Git Bash and s
 Node.js and VS Code Insider required updates to work with MCP integrations.
 
 Claude Desktop required re-login after updates to recognize all MCP servers.
+
