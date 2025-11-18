@@ -1,0 +1,17 @@
+{
+  "name": "ai-agent-dev-setup",
+  "version": "1.0.0",
+  "description": "AI Agent Development Environment Setup Documentation",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["ai-agent", "documentation", "mcp-servers", "development-environment"],
+  "author": "Jherilyn Fortes",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
