@@ -1,4 +1,20 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
+# IDE files
+.vscode/settings.json
+.idea/
 
-#Ignore insiders AI rules
-.github\instructions\codacy.instructions.md
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
